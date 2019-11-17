@@ -22,12 +22,6 @@ class Oeuvres
 
 	public function setPretEffectuer(){
 		$this->quantiteOeuvre=$this->quantiteOeuvre-1;
-
 	}
-
-
-
-// class prêt hérite de oeuvre 
-// dans prêt set quantité oeuvre ??? 
 }
 
